@@ -1,0 +1,6 @@
+export const LOAD_USER  = 'LOAD_USER'
+export const DRAW_LOAD_USER = 'DRAW_LOAD_USER'
+export const SUCCESS_LOAD_USER = 'SUCCESS_LOAD_USER'
+export const FAILED_LOAD_USER = 'FAILED_LOAD_USER'
+
+
